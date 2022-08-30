@@ -37,4 +37,4 @@ while(count < 10000)
     Console.Write("+");
     count++;
 }
-Console.SetCursorPosition(61,21);
+Console.SetCursorPosition(1,21);
